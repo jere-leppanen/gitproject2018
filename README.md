@@ -1,4 +1,4 @@
-Test gitproject2018
+Test git project 2018
 
 Made by
 Jere Leppänen (MASTER)
